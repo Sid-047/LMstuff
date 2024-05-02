@@ -1,0 +1,76 @@
+#,Code,District,Headquarters,Population,Area (km2),Density (/km2),State/UnionTerritory,City Tier
+1,AG,Agra,Agra,4380793,4027,1084,Uttar Pradesh,Tier I
+2,AL,Aligarh,Aligarh,3673849,3747,1007,Uttar Pradesh,Tier I
+3,AN,Ambedkar Nagar,Akbarpur,2398709,2372,1021,Uttar Pradesh,Tier I
+4,AM,Amethi,Gauriganj,2549935,3063,830,Uttar Pradesh,Tier I
+5,JP,Amroha,Amroha,1838771,2321,818,Uttar Pradesh,Tier I
+6,AU,Auraiya,Auraiya,1372287,2051,681,Uttar Pradesh,Tier I
+7,FZ,Ayodhya,Ayodhya,2468371,2765,1054,Uttar Pradesh,Tier I
+8,AZ,Azamgarh,Azamgarh,4616509,4053,1139,Uttar Pradesh,Tier I
+9,BG,Bagpat,Baghpat,1302156,1345,986,Uttar Pradesh,Tier I
+10,BH,Bahraich,Bahraich,2384239,4926,415,Uttar Pradesh,Tier I
+11,BL,Ballia,Ballia,3223642,2981,1081,Uttar Pradesh,Tier I
+12,BP,Balrampur,Balrampur,2149066,3349,642,Uttar Pradesh,Tier I
+13,BN,Banda,Banda,1799541,4413,404,Uttar Pradesh,Tier I
+14,BB,Barabanki,Barabanki,3257983,3825,739,Uttar Pradesh,Tier I
+15,BR,Bareilly,Bareilly,4465344,4120,1084,Uttar Pradesh,Tier I
+16,BS,Basti,Basti,2461056,2687,916,Uttar Pradesh,Tier I
+17,BH,Bhadohi,Gyanpur,1554203,960,1531,Uttar Pradesh,Tier I
+18,BI,Bijnor,Bijnor,3683896,4561,808,Uttar Pradesh,Tier I
+19,BD,Budaun,Budaun,3712738,5168,718,Uttar Pradesh,Tier I
+20,BU,Bulandshahr,Bulandshahr,3498507,3719,788,Uttar Pradesh,Tier I
+21,CD,Chandauli,Chandauli,1952713,2554,768,Uttar Pradesh,Tier I
+22,CT,Chitrakoot,Karwi,990626,3202,315,Uttar Pradesh,Tier I
+23,DE,Deoria,Deoria,3098637,2535,1220,Uttar Pradesh,Tier I
+24,ET,Etah,Etah,1761152,2456,717,Uttar Pradesh,Tier I
+25,EW,Etawah,Etawah,1579160,2287,683,Uttar Pradesh,Tier I
+26,FR,Farrukhabad,Fatehgarh,1887577,2279,865,Uttar Pradesh,Tier I
+27,FT,Fatehpur,Fatehpur,2632684,4152,634,Uttar Pradesh,Tier I
+28,FI,Firozabad,Firozabad,2496761,2361,1044,Uttar Pradesh,Tier I
+29,GB,Gautam Buddha Nagar,Noida,1674714,1269,1252,Uttar Pradesh,Tier I
+30,GZ,Ghaziabad,Ghaziabad,4661452,1175,3967,Uttar Pradesh,Tier I
+31,GP,Ghazipur,Ghazipur,3622727,3377,1072,Uttar Pradesh,Tier I
+32,GN,Gonda,Gonda,3431386,4425,857,Uttar Pradesh,Tier I
+33,GR,Gorakhpur,Gorakhpur,4436275,3325,1336,Uttar Pradesh,Tier I
+34,HM,Hamirpur,Hamirpur,1104021,4325,268,Uttar Pradesh,Tier I
+35,PN,Hapur,Hapur,1338211,660,2028,Uttar Pradesh,Tier I
+36,HR,Hardoi,Hardoi,4091380,5986,683,Uttar Pradesh,Tier I
+37,HT,Hathras,Hathras,1565678,1752,851,Uttar Pradesh,Tier I
+38,JL,Jalaun,Orai,1670718,4565,366,Uttar Pradesh,Tier I
+39,JU,Jaunpur,Jaunpur,4476072,4038,1108,Uttar Pradesh,Tier I
+40,JH,Jhansi,Jhansi,2000755,5024,398,Uttar Pradesh,Tier I
+41,KJ,Kannauj,Kannauj,1658005,1993,792,Uttar Pradesh,Tier I
+42,KD,Kanpur Dehat,Akbarpur,1795092,3021,594,Uttar Pradesh,Tier I
+43,KN,Kanpur Nagar,Kanpur,4572951,3156,1415,Uttar Pradesh,Tier I
+44,KR,Kasganj,Kasganj,1438156,1955,736,Uttar Pradesh,Tier I
+45,KS,Kaushambi,Manjhanpur,1596909,1837,897,Uttar Pradesh,Tier I
+46,KU,Kushinagar,Padrauna,3560830,2909,1226,Uttar Pradesh,Tier I
+47,LK,Lakhimpur Kheri,Lakhimpur,4013634,7674,523,Uttar Pradesh,Tier I
+48,LA,Lalitpur,Lalitpur,1218002,5039,242,Uttar Pradesh,Tier I
+49,LU,Lucknow,Lucknow,4588455,2528,1815,Uttar Pradesh,Tier I
+50,MG,Maharajganj,Maharajganj,2665292,2953,903,Uttar Pradesh,Tier I
+51,MH,Mahoba,Mahoba,876055,2847,288,Uttar Pradesh,Tier I
+52,MP,Mainpuri,Mainpuri,1847194,2760,670,Uttar Pradesh,Tier I
+53,MT,Mathura,Mathura,2541894,3333,761,Uttar Pradesh,Tier I
+54,MB,Mau,Mau,2205170,1713,1287,Uttar Pradesh,Tier I
+55,ME,Meerut,Meerut,3447405,2522,1342,Uttar Pradesh,Tier I
+56,MI,Mirzapur,Mirzapur,2494533,4522,561,Uttar Pradesh,Tier I
+57,MO,Moradabad,Moradabad,4773138,3718,1284,Uttar Pradesh,Tier I
+58,MU,Muzaffarnagar,Muzaffarnagar,4138605,4008,1033,Uttar Pradesh,Tier I
+59,PI,Pilibhit,Pilibhit,2037225,3499,567,Uttar Pradesh,Tier I
+60,PR,Pratapgarh,Pratapgarh,3173752,3717,854,Uttar Pradesh,Tier I
+61,AH,Prayagraj,Prayagraj,5959798,5481,1087,Uttar Pradesh,Tier I
+62,RB,Raebareli,Raebareli,3404004,4609,739,Uttar Pradesh,Tier I
+63,RA,Rampur,Rampur,2335398,2367,987,Uttar Pradesh,Tier I
+64,SA,Saharanpur,Saharanpur,3464228,3689,939,Uttar Pradesh,Tier I
+65,SM,Sambhal,Sambhal,2217020,2453,890,Uttar Pradesh,Tier I
+66,SK,Sant Kabir Nagar,Khalilabad,1714300,1442,1014,Uttar Pradesh,Tier I
+67,SJ,Shahjahanpur,Shahjahanpur,3002376,4575,673,Uttar Pradesh,Tier I
+68,SH,Shamli,Shamli,1274815,1063,1200,Uttar Pradesh,Tier I
+69,SV,Shravasti,Shravasti,1114615,1948,572,Uttar Pradesh,Tier I
+70,SN,Siddharthnagar,Naugarh,2553526,2751,882,Uttar Pradesh,Tier I
+71,SI,Sitapur,Sitapur,4474446,5743,779,Uttar Pradesh,Tier I
+72,SO,Sonbhadra,Robertsganj,1862612,6788,274,Uttar Pradesh,Tier I
+73,SU,Sultanpur,Sultanpur,3790922,4436,855,Uttar Pradesh,Tier I
+74,UN,Unnao,Unnao,3110595,4561,682,Uttar Pradesh,Tier I
+75,VA,Varanasi,Varanasi,3682194,1535,2399,Uttar Pradesh,Tier I

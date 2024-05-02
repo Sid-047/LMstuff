@@ -1,0 +1,12 @@
+#,Code,District,Headquarters,Population,Area (km2),Density (/km2),State/UnionTerritory,City Tier
+1,CD,Central Delhi,Daryaganj,582320,25.0,27730,Delhi,Tier I
+2,ED,East Delhi,Preet Vihar,1709346,440.0,27132,Delhi,Tier I
+3,ND,New Delhi,Connaught Place,142004,22.0,4057,Delhi,Tier I
+4,NO,North Delhi,Sadar Bazaar,887978,59.0,14557,Delhi,Tier I
+5,NE,North East Delhi,Seelampur,2241624,52.0,36155,Delhi,Tier I
+6,NW,North West Delhi,Kanjhawala,3656539,130.0,8254,Delhi,Tier I
+7,SH,Shahdara district,Nand Nagri,0,59.75,–,Delhi,Tier III
+8,SD,South Delhi,Saket,2731929,250.0,11060,Delhi,Tier I
+9,SE,South East Delhi,Defence Colony,1500636,102.0,15000,Delhi,Tier I
+10,SW,South West Delhi,Vasant Vihar,2292958,395.0,5446,Delhi,Tier I
+11,WD,West Delhi,Rajouri Garden,2543243,112.0,19563,Delhi,Tier I

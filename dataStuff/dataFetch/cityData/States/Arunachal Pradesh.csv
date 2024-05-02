@@ -1,0 +1,29 @@
+#,Code,District,Headquarters,Population,Area (km2),Density (/km2),State/UnionTerritory,City Tier
+1,AJ,Anjaw,Hawai,21089,6190,3,Arunachal Pradesh,Tier III
+2,CH,Changlang,Changlang,147951,4662,32,Arunachal Pradesh,Tier I
+3,EK,East Kameng,Seppa,78413,4134,19,Arunachal Pradesh,Tier II
+4,ES,East Siang,Pasighat,99019,3603,27,Arunachal Pradesh,Tier II
+5,,Itanagar Capital Complex,Itanagar,122930,200,614.65,Arunachal Pradesh,Tier I
+6,–,Kamle,Raga,22256,200,111,Arunachal Pradesh,Tier III
+7,–,Kra Daadi,Palin,22290,2202,10,Arunachal Pradesh,Tier III
+8,KK,Kurung Kumey,Koloriang,89717,6040,15,Arunachal Pradesh,Tier II
+9,–,Lepa Rada,Basar,0,–,–,Arunachal Pradesh,Tier III
+10,EL,Lohit,Tezu,145538,2402,61,Arunachal Pradesh,Tier I
+11,LD,Longding,Longding,60000,1200,50,Arunachal Pradesh,Tier II
+12,DV,Lower Dibang Valley,Roing,53986,3900,14,Arunachal Pradesh,Tier II
+13,–,Lower Siang,Likabali,22630,–,–,Arunachal Pradesh,Tier III
+14,LB,Lower Subansiri,Ziro,82839,3508,24,Arunachal Pradesh,Tier II
+15,–,Namsai,Namsai,95950,1587,60,Arunachal Pradesh,Tier II
+16,–,Pakke-Kessang,Lemmi,15358,1932,7.9,Arunachal Pradesh,Tier III
+17,PA,Papum Pare,Yupia,176385,2875,61,Arunachal Pradesh,Tier I
+18,–,Shi Yomi,Tato,13310,2875,5,Arunachal Pradesh,Tier III
+19,–,Siang,Boleng,31920,2919,11,Arunachal Pradesh,Tier III
+20,TA,Tawang,Tawang,49950,2085,24,Arunachal Pradesh,Tier III
+21,TI,Tirap,Khonsa,111997,2362,47,Arunachal Pradesh,Tier I
+22,UD,Upper Dibang Valley,Anini,8004,9129,1,Arunachal Pradesh,Tier III
+23,US,Upper Siang,Yingkiong,35289,6188,6,Arunachal Pradesh,Tier III
+24,UB,Upper Subansiri,Daporijo,83205,7032,12,Arunachal Pradesh,Tier II
+25,WK,West Kameng,Bomdila,87013,7422,12,Arunachal Pradesh,Tier II
+26,WS,West Siang,Aalo,112272,8325,13,Arunachal Pradesh,Tier I
+27,,Keyi Panyor,Yachuli,30000,,,Arunachal Pradesh,Tier III
+28,,Bichom,Napangphung,9710,,,Arunachal Pradesh,Tier III
