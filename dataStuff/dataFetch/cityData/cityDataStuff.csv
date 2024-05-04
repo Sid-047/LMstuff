@@ -1,0 +1,789 @@
+Code,District,Headquarters,Population,Area (km2),Density (/km2),State/UnionTerritory,City Tier
+–,Chümoukedima,Chümoukedima,125400,570.0,220,Nagaland,Tier III
+DI,Dimapur,Dimapur,379769,926.0,410,Nagaland,Tier III
+KI,Kiphire,Kiphire,74033,1255.0,66,Nagaland,Tier III
+KO,Kohima,Kohima,270063,1041.0,213,Nagaland,Tier III
+LO,Longleng,Longleng,50593,885.0,89,Nagaland,Tier III
+MK,Mokokchung,Mokokchung,193171,1615.0,120,Nagaland,Tier III
+MN,Mon,Mon,259604,1786.0,145,Nagaland,Tier III
+–,Niuland,Niuland,42287,483.63,87,Nagaland,Tier III
+–,Noklak,Noklak,59300,1152.0,51,Nagaland,Tier III
+PE,Peren,Peren,163294,2300.0,55,Nagaland,Tier III
+PH,Phek,Phek,163294,2026.0,81,Nagaland,Tier III
+–,Shamator,Shamator,34223,469.0,73,Nagaland,Tier III
+–,Tseminyü,Tseminyü,63629,256.0,249,Nagaland,Tier III
+TU,Tuensang,Tuensang,414801,4228.0,98,Nagaland,Tier III
+WO,Wokha,Wokha,166239,1628.0,120,Nagaland,Tier III
+ZU,Zunheboto,Zunheboto,141014,1255.0,112,Nagaland,Tier III
+AM,Amritsar,Amritsar,2490891,2673.0,932,Punjab,Tier II
+BNL,Barnala,Barnala,596294,1423.0,419,Punjab,Tier III
+BA,Bathinda,Bathinda,1388859,3355.0,414,Punjab,Tier III
+FI,Firozpur,Firozpur,2026831,5334.0,380,Punjab,Tier III
+FR,Faridkot,Faridkot,618008,1472.0,424,Punjab,Tier III
+FT,Fatehgarh Sahib,Fatehgarh Sahib,599814,1180.0,508,Punjab,Tier III
+FA,Fazilka,Fazilka,1180483,3113.0,379,Punjab,Tier III
+GU,Gurdaspur,Gurdaspur,2299026,3542.0,649,Punjab,Tier III
+HO,Hoshiarpur,Hoshiarpur,1582793,3397.0,466,Punjab,Tier III
+JA,Jalandhar,Jalandhar,2181753,2625.0,831,Punjab,Tier II
+KA,Kapurthala,Kapurthala,817668,1646.0,501,Punjab,Tier III
+LU,Ludhiana,Ludhiana,3487882,3744.0,975,Punjab,Tier II
+ML,Malerkotla,Malerkotla,429754,684.0,629,Punjab,Tier III
+MA,Mansa,Mansa,768808,2174.0,350,Punjab,Tier III
+MO,Moga,Moga,992289,2235.0,444,Punjab,Tier III
+MU,Sri Muktsar Sahib,Sri Muktsar Sahib,902702,2596.0,348,Punjab,Tier III
+PA,Pathankot,Pathankot,626154,929.0,674,Punjab,Tier III
+PA,Patiala,Patiala,2892282,3175.0,596,Punjab,Tier III
+RU,Rupnagar,Rupnagar,683349,1400.0,488,Punjab,Tier III
+SAS,Sahibzada Ajit Singh Nagar,Sahibzada Ajit Singh Nagar,986147,1188.0,830,Punjab,Tier III
+SA,Sangrur,Sangrur,1654408,3685.0,449,Punjab,Tier III
+PB,Shahid Bhagat Singh Nagar,Nawanshahr,614362,1283.0,479,Punjab,Tier III
+TT,Tarn Taran,Tarn Taran Sahib,1120070,2414.0,464,Punjab,Tier III
+AL,Almora,Almora,621927,3090.0,198,Uttarakhand,Tier III
+BA,Bageshwar,Bageshwar,259840,2310.0,116,Uttarakhand,Tier III
+CL,Chamoli,Gopeshwar,391114,7692.0,49,Uttarakhand,Tier III
+CP,Champawat,Champawat,259315,1781.0,147,Uttarakhand,Tier III
+DD,Dehradun,Dehradun,1698560,3088.0,550,Uttarakhand,Tier II
+HA,Haridwar,Haridwar,1927029,2360.0,817,Uttarakhand,Tier III
+,Nainital,Nainital,955128,3853.0,225,Uttarakhand,Tier III
+PG,Pauri Garhwal,Pauri,686527,5438.0,129,Uttarakhand,Tier III
+PI,Pithoragarh,Pithoragarh,485993,7110.0,69,Uttarakhand,Tier III
+RP,Rudraprayag,Rudraprayag,236857,1896.0,119,Uttarakhand,Tier III
+TG,Tehri Garhwal,New Tehri,616409,4085.0,169,Uttarakhand,Tier III
+US,Udham Singh Nagar,Rudrapur,1648367,2912.0,648,Uttarakhand,Tier III
+UT,Uttarkashi,Uttarkashi,329686,7951.0,41,Uttarakhand,Tier III
+DA,Daman,Daman,191173,72.0,2651,"Dadra Nagar Haveli, Daman and Diu",Tier III
+DI,Diu,Diu,52074,39.0,2058,"Dadra Nagar Haveli, Daman and Diu",Tier III
+DN,Dadra and Nagar Haveli,Silvassa,343709,491.0,700,"Dadra Nagar Haveli, Daman and Diu",Tier III
+CD,Central Delhi,Daryaganj,582320,25.0,27730,Delhi,Tier III
+ED,East Delhi,Preet Vihar,1709346,440.0,27132,Delhi,Tier III
+ND,New Delhi,Connaught Place,142004,22.0,4057,Delhi,Tier III
+NO,North Delhi,Sadar Bazaar,887978,59.0,14557,Delhi,Tier III
+NE,North East Delhi,Seelampur,2241624,52.0,36155,Delhi,Tier III
+NW,North West Delhi,Kanjhawala,3656539,130.0,8254,Delhi,Tier III
+SH,Shahdara district,Nand Nagri,0,59.75,–,Delhi,Tier III
+SD,South Delhi,Saket,2731929,250.0,11060,Delhi,Tier III
+SE,South East Delhi,Defence Colony,1500636,102.0,15000,Delhi,Tier III
+SW,South West Delhi,Vasant Vihar,2292958,395.0,5446,Delhi,Tier III
+WD,West Delhi,Rajouri Garden,2543243,112.0,19563,Delhi,Tier III
+AS,Alluri Sitharama Raju,Paderu,954000,12251.0,77.87,Andhra Pradesh,Tier III
+AK,Anakapalli,Anakapalli,1727000,4292.0,402.38,Andhra Pradesh,Tier III
+AN,Ananthapuramu,Ananthapuramu,2241100,10205.0,219.608,Andhra Pradesh,Tier III
+AM,Annamayya,Rayachoti,1697300,7954.0,213.389,Andhra Pradesh,Tier III
+BP,Bapatla,Bapatla,1587000,3829.0,414.47,Andhra Pradesh,Tier III
+CH,Chittoor,Chittoor,1873000,6855.0,273.23,Andhra Pradesh,Tier III
+KN,Dr. B.R. Ambedkar Konaseema,Amalapuram,1719100,2083.0,825.3,Andhra Pradesh,Tier III
+EG,East Godavari,Rajamahendravaram,1832300,2561.0,715.46,Andhra Pradesh,Tier III
+EL,Eluru,Eluru,2071700,6679.0,310.181,Andhra Pradesh,Tier III
+GU,Guntur,Guntur,2091000,2443.0,855.9,Andhra Pradesh,Tier II
+KK,Kakinada,Kakinada,2092300,3019.0,693.04,Andhra Pradesh,Tier II
+KR,Krishna,Machilipatnam,1735000,3775.0,459.602,Andhra Pradesh,Tier III
+KU,Kurnool,Kurnool,2271700,7980.0,284.67,Andhra Pradesh,Tier III
+NN,Nandyal,Nandyal,1781800,9682.0,184.032,Andhra Pradesh,Tier III
+NE,Nellore,Nellore,2469700,10441.0,236.0,Andhra Pradesh,Tier II
+NT,NTR,Vijayawada,2218000,3316.0,668.88,Andhra Pradesh,Tier III
+PL,Palnadu,Narasaraopet,2042000,7298.0,279.8,Andhra Pradesh,Tier III
+PM,Parvathipuram Manyam,Parvathipuram,925300,3659.0,252.88,Andhra Pradesh,Tier III
+PR,Prakasam,Ongole,2288000,14322.0,160.0,Andhra Pradesh,Tier III
+SR,Srikakulam,Srikakulam,2191471,4591.0,477.34,Andhra Pradesh,Tier III
+SS,Sri Sathya Sai,Puttaparthi,1840000,8925.0,206.2,Andhra Pradesh,Tier III
+TR,Tirupati,Tirupati,2197000,8231.0,241.72,Andhra Pradesh,Tier III
+VS,Visakhapatnam,Visakhapatnam,1959500,1048.0,1869.8,Andhra Pradesh,Tier II
+VZ,Vizianagaram,Vizianagaram,1930800,4122.0,468.41,Andhra Pradesh,Tier III
+WG,West Godavari,Bhimavaram,1780000,2178.0,817.3,Andhra Pradesh,Tier III
+CU,YSR Kadapa,Kadapa,2060700,11228.0,183.532,Andhra Pradesh,Tier III
+BPR,Bishnupur,Bishnupur,240363,496,415,Manipur,Tier III
+CDL,Chandel,Chandel,144028,3317,37,Manipur,Tier III
+CCpr,Churachandpur,Churachandpur,271274,4574,50,Manipur,Tier III
+IE,Imphal East,Porompat,452661,710,555,Manipur,Tier III
+IW,Imphal West,Lamphelpat,514683,519,847,Manipur,Tier III
+JBM,Jiribam,Jiribam,43818,232,190,Manipur,Tier III
+KAK,Kakching,Kakching,135481,190,710,Manipur,Tier III
+KJ,Kamjong,Kamjong,45616,2000,23,Manipur,Tier III
+KPI,Kangpokpi,Kangpokpi,193744,1698,110,Manipur,Tier III
+NL,Noney,Noney (Longmai),0,–,–,Manipur,Tier III
+PZ,Pherzawl,Pherzawl,47250,2285,21,Manipur,Tier III
+SE,Senapati,Senapati,354772,3269,116,Manipur,Tier III
+TML,Tamenglong,Tamenglong,140143,4391,25,Manipur,Tier III
+TNL,Tengnoupal,Tengnoupal,59110,1213,49,Manipur,Tier III
+TBL,Thoubal,Thoubal,420517,514,713,Manipur,Tier III
+UKR,Ukhrul,Ukhrul,183115,4547,31,Manipur,Tier III
+BO,Bokaro,Bokaro,2061918,2883,716,Jharkhand,Tier III
+CH,Chatra,Chatra,1042304,3700,275,Jharkhand,Tier III
+DE,Deoghar,Deoghar,1491879,2479,602,Jharkhand,Tier III
+DH,Dhanbad,Dhanbad,2682662,2040,1316,Jharkhand,Tier II
+DU,Dumka,Dumka,1321096,4404,300,Jharkhand,Tier III
+ES,East Singhbhum,Jamshedpur,2291032,3562,648,Jharkhand,Tier III
+GA,Garhwa,Garhwa,1322387,4064,327,Jharkhand,Tier III
+GI,Giridih,Giridih,2445203,4887,497,Jharkhand,Tier III
+GO,Godda,Godda,1311382,2110,622,Jharkhand,Tier III
+GU,Gumla,Gumla,1025656,5360,191,Jharkhand,Tier III
+HA,Hazaribag,Hazaribag,1734495,3555,488,Jharkhand,Tier III
+JA,Jamtara,Jamtara,790207,1802,439,Jharkhand,Tier III
+KH,Khunti,Khunti,530299,2535,210,Jharkhand,Tier III
+KO,Koderma,Koderma,716259,2540,282,Jharkhand,Tier III
+LA,Latehar,Latehar,725673,3630,200,Jharkhand,Tier III
+LO,Lohardaga,Lohardaga,461738,1502,307,Jharkhand,Tier III
+PK,Pakur,Pakur,899200,1805,498,Jharkhand,Tier III
+PL,Palamu,Daltonganj,1936319,4393,442,Jharkhand,Tier III
+RM,Ramgarh,Ramgarh,949159,1341,708,Jharkhand,Tier III
+RA,Ranchi,Ranchi,2912022,5097,572,Jharkhand,Tier II
+SA,Sahibganj,Sahebganj,1150038,2063,558,Jharkhand,Tier III
+SK,Seraikela-Kharsawan,Seraikela,1063458,2657,401,Jharkhand,Tier III
+SI,Simdega,Simdega,599813,3750,160,Jharkhand,Tier III
+WS,West Singhbhum,Chaibasa,1501619,7224,209,Jharkhand,Tier III
+AY,Ariyalur,Ariyalur,752481,3208,387,Tamil Nadu,Tier III
+CGL,Chengalpattu,Chengalpattu,2556244,2945,868,Tamil Nadu,Tier III
+CH,Chennai,Chennai,7139882,426,17000,Tamil Nadu,Tier I
+CO,Coimbatore,Coimbatore,3472578,4723,748,Tamil Nadu,Tier II
+CU,Cuddalore,Cuddalore,2600880,3999,702,Tamil Nadu,Tier III
+DH,Dharmapuri,Dharmapuri,1502900,4532,332,Tamil Nadu,Tier III
+DGL,Dindigul,Dindigul,2161367,6058,357,Tamil Nadu,Tier III
+ER,Erode,Erode,2259608,5714,397,Tamil Nadu,Tier II
+KL,Kallakurichi,Kallakurichi,1682687,3520,478,Tamil Nadu,Tier III
+KC,Kanchipuram,Kanchipuram,1166401,1656,704,Tamil Nadu,Tier III
+KK,Kanyakumari,Nagercoil,1863178,1685,1106,Tamil Nadu,Tier III
+KA,Karur,Karur,1076588,2901,371,Tamil Nadu,Tier III
+KR,Krishnagiri,Krishnagiri,1883731,5086,370,Tamil Nadu,Tier III
+MDU,Madurai,Madurai,3191038,3676,823,Tamil Nadu,Tier II
+MLD,Mayiladuthurai,Mayiladuthurai,918356,1172,784,Tamil Nadu,Tier III
+NG,Nagapattinam,Nagapattinam,1614069,2716,668,Tamil Nadu,Tier III
+NI,Nilgiris,Ooty,735071,2549,288,Tamil Nadu,Tier III
+NM,Namakkal,Namakkal,1721179,3429,506,Tamil Nadu,Tier III
+PE,Perambalur,Perambalur,564511,1752,323,Tamil Nadu,Tier III
+PU,Pudukkottai,Pudukkottai,1918725,4651,348,Tamil Nadu,Tier III
+RA,Ramanathapuram,Ramanathapuram,1337560,4123,320,Tamil Nadu,Tier III
+RN,Ranipet,Ranipettai,1210277,2234,524,Tamil Nadu,Tier III
+SA,Salem,Salem,3480008,5245,663,Tamil Nadu,Tier II
+SVG,Sivaganga,Sivagangai,1341250,4086,324,Tamil Nadu,Tier III
+TS,Tenkasi,Tenkasi,1407627,2916,483,Tamil Nadu,Tier III
+TP,Tiruppur,Tiruppur,2471222,5106,476,Tamil Nadu,Tier III
+TC,Tiruchirappalli,Tiruchirappalli,2713858,4407,602,Tamil Nadu,Tier II
+TH,Theni,Theni,1243684,3066,433,Tamil Nadu,Tier III
+TI,Tirunelveli,Tirunelveli,1665253,3842,433,Tamil Nadu,Tier II
+TJ,Thanjavur,Thanjavur,2402781,3397,691,Tamil Nadu,Tier II
+TK,Thoothukudi,Thoothukudi,1738376,4594,378,Tamil Nadu,Tier III
+TP,Tirupattur,Tirupattur,1111812,1798,618,Tamil Nadu,Tier III
+TL,Tiruvallur,Tiruvallur,3725697,3424,1049,Tamil Nadu,Tier III
+TR,Tiruvarur,Thiruvarur,1268094,2377,533,Tamil Nadu,Tier III
+TV,Tiruvannamalai,Tiruvannaamalai,2468965,6191,399,Tamil Nadu,Tier II
+VE,Vellore,Vellore,1614242,2080,776,Tamil Nadu,Tier II
+VL,Viluppuram,Viluppuram,2093003,3725,562,Tamil Nadu,Tier III
+VNR,Virudhunagar,Virudhunagar,1943309,3446,454,Tamil Nadu,Tier III
+AN,Anantnag,Anantnag,1070144,2853,375,Jammu and Kashmir,Tier III
+BD,Budgam,Budgam,735753,1406,537,Jammu and Kashmir,Tier III
+BPR,Bandipore,Bandipore,385099,3010,128,Jammu and Kashmir,Tier III
+BR,Baramulla,Baramulla,1015503,3329,305,Jammu and Kashmir,Tier III
+DO,Doda,Doda,409576,2625,79,Jammu and Kashmir,Tier III
+GB,Ganderbal,Ganderbal,297003,1979,1151,Jammu and Kashmir,Tier III
+JA,Jammu,Jammu,1526406,3097,596,Jammu and Kashmir,Tier II
+KT,Kathua,Kathua,615711,2651,232,Jammu and Kashmir,Tier III
+KW,Kishtwar,Kishtwar,230696,7737,30,Jammu and Kashmir,Tier III
+KG,Kulgam,Kulgam,422786,457,925,Jammu and Kashmir,Tier III
+KU,Kupwara,Kupwara,875564,2379,368,Jammu and Kashmir,Tier III
+PO,Poonch,Poonch,476820,1674,285,Jammu and Kashmir,Tier III
+PU,Pulwama,Pulwama,570060,1398,598,Jammu and Kashmir,Tier III
+RA,Rajouri,Rajouri,619266,2630,235,Jammu and Kashmir,Tier III
+RB,Ramban,Ramban,283313,1330,213,Jammu and Kashmir,Tier III
+RS,Reasi,Reasi,314714,1710,184,Jammu and Kashmir,Tier III
+SB,Samba,Samba,318611,913,318,Jammu and Kashmir,Tier III
+SH,Shopian,Shopian,265960,312,852,Jammu and Kashmir,Tier III
+SR,Srinagar,Srinagar,1269751,2228,703,Jammu and Kashmir,Tier II
+UD,Udhampur,Udhampur,555357,4550,211,Jammu and Kashmir,Tier III
+BK,Baksa,Mushalpur,953773,2008,475,Assam,Tier III
+BJ,Bajali,Pathsala,253816,418,610,Assam,Tier III
+BP,Barpeta,Barpeta,1693622,3245,520,Assam,Tier III
+BN,Biswanath,Biswanath Chariali,612491,1415,430,Assam,Tier III
+BO,Bongaigaon,Bongaigaon,732639,1724,425,Assam,Tier III
+CA,Cachar,Silchar,1736319,3786,459,Assam,Tier III
+CD,Charaideo,Sonari,471418,1069,440,Assam,Tier III
+CH,Chirang,Kajalgaon,481818,1975,244,Assam,Tier III
+DR,Darrang,Mangaldoi,908090,1849,491,Assam,Tier III
+DM,Dhemaji,Dhemaji,688077,3237,213,Assam,Tier III
+DU,Dhubri,Dhubri,1948632,2838,687,Assam,Tier III
+DI,Dibrugarh,Dibrugarh,1327748,3381,393,Assam,Tier III
+NC,Dima Hasao,Haflong,213529,4888,44,Assam,Tier III
+GP,Goalpara,Goalpara,1008959,1824,553,Assam,Tier III
+GG,Golaghat,Golaghat,1058674,3502,302,Assam,Tier III
+HA,Hailakandi,Hailakandi,659260,1327,497,Assam,Tier III
+HJ,Hojai,Sankardev Nagar,931218,1686,550,Assam,Tier III
+JO,Jorhat,Jorhat,1091295,2851,383,Assam,Tier III
+KU,Kamrup,Amingaon,1517202,3480,436,Assam,Tier III
+KM,Kamrup Metropolitan,Guwahati,1260419,627,2010,Assam,Tier III
+KG,Karbi Anglong,Diphu,965280,10434,93,Assam,Tier III
+KR,Karimganj,Karimganj,1217002,1809,673,Assam,Tier III
+KJ,Kokrajhar,Kokrajhar,886999,3129,283,Assam,Tier III
+LA,Lakhimpur,North Lakhimpur,1040644,2277,457,Assam,Tier III
+MJ,Majuli,Garamur,167304,880,300,Assam,Tier III
+MA,Morigaon,Marigaon,957853,1704,562,Assam,Tier III
+NN,Nagaon,Nagaon,2826006,3831,738,Assam,Tier III
+NB,Nalbari,Nalbari,769919,1009,763,Assam,Tier III
+ST,Sivasagar,Sibsagar,1150253,2668,431,Assam,Tier III
+SO,Sonitpur,Tezpur,1925975,5324,362,Assam,Tier III
+SM,South Salmara-Mankachar,Hatsingimari,555114,568,980,Assam,Tier III
+TP,Tamulpur,Tamulpur,389150,884,440,Assam,Tier III
+TI,Tinsukia,Tinsukia,1316948,3790,347,Assam,Tier III
+UD,Udalguri,Udalguri,832769,1676,497,Assam,Tier III
+WK,West Karbi Anglong,Hamren,300320,3035,99,Assam,Tier III
+AN,Anupgarh,Anupgarh,869696.0,8871.99,98.0,Rajasthan,Tier III
+AJ,Ajmer,Ajmer,2584913.0,8481.0,305.0,Rajasthan,Tier II
+AL,Alwar,Alwar,3671999.0,8380.0,438.0,Rajasthan,Tier III
+BA,Balotra,Balotra,970760.0,19000.0,51.0,Rajasthan,Tier III
+BE,Beawar,Beawar,,,,Rajasthan,Tier III
+BI,Bikaner,Bikaner,2367745.0,27244.0,78.0,Rajasthan,Tier II
+BM,Barmer,Barmer,2604453.0,28387.0,92.0,Rajasthan,Tier III
+BN,Banswara,Banswara,1798194.0,5037.0,399.0,Rajasthan,Tier III
+BP,Bharatpur,Bharatpur,2549121.0,5066.0,503.0,Rajasthan,Tier III
+BR,Baran,Baran,1223921.0,6955.0,175.0,Rajasthan,Tier III
+BU,Bundi,Bundi,1113725.0,5550.0,193.0,Rajasthan,Tier III
+BW,Bhilwara,Bhilwara,2410459.0,10455.0,230.0,Rajasthan,Tier III
+CR,Churu,Churu,2041172.0,16830.0,148.0,Rajasthan,Tier III
+CT,Chittorgarh,Chittorgarh,1544392.0,10856.0,193.0,Rajasthan,Tier III
+DA,Dausa,Dausa,1637226.0,3429.0,476.0,Rajasthan,Tier III
+-,Deeg,Deeg,1072755.0,,,Rajasthan,Tier III
+dk,Didwana Kuchaman,Didwana,1625837.0,,239.0,Rajasthan,Tier III
+DH,Dholpur,Dholpur,1207293.0,3084.0,398.0,Rajasthan,Tier III
+-,Dudu,Dudu,312857.0,,,Rajasthan,Tier III
+DU,Dungarpur,Dungarpur,1388906.0,3771.0,368.0,Rajasthan,Tier III
+GC,Gangapur city,Gangapur City,,,,Rajasthan,Tier III
+GA,Sri Ganganagar,Sri Ganganagar,1969520.0,10990.0,179.0,Rajasthan,Tier III
+HA,Hanumangarh,Hanumangarh,1779650.0,9670.0,184.0,Rajasthan,Tier III
+-,Jaipur Gramin,Jaipur,,,,Rajasthan,Tier III
+JJ,Jhunjhunu,Jhunjhunu,2139658.0,5928.0,361.0,Rajasthan,Tier III
+JL,Jalore,Jalore,1830151.0,10640.0,172.0,Rajasthan,Tier III
+JO,Jodhpur,Jodhpur,3685681.0,22850.0,161.0,Rajasthan,Tier II
+-,Jodhpur Gramin,Jodhpur,,,,Rajasthan,Tier III
+JP,Jaipur,Jaipur,6626178.0,11143.0,595.0,Rajasthan,Tier II
+JS,Jaisalmer,Jaisalmer,672008.0,38401.0,17.0,Rajasthan,Tier III
+JW,Jhalawar,Jhalawar,1411327.0,6219.0,227.0,Rajasthan,Tier III
+KA,Karauli,Karauli,1458459.0,5530.0,264.0,Rajasthan,Tier III
+KE,Kekri,Kekri,,,,Rajasthan,Tier III
+KT,Khairthal-Tijara,Khairthal,966821.0,,,Rajasthan,Tier III
+KP,Kotputli-Behror,Kotputli,,,,Rajasthan,Tier III
+KO,Kota,Kota,1950491.0,5446.0,374.0,Rajasthan,Tier II
+TO,Tonk,Tonk,1421711.0,7194.0,198.0,Rajasthan,Tier III
+UD,Udaipur,Udaipur,3067549.0,13430.0,242.0,Rajasthan,Tier III
+,Nagaur,Nagaur,3309234.0,17718.0,187.0,Rajasthan,Tier III
+NT,Neem Ka Thana,Neem Ka Thana,,,,Rajasthan,Tier III
+PA,Pali,Pali,2038533.0,12387.0,165.0,Rajasthan,Tier III
+PH,Phalodi,Phalodi,,,,Rajasthan,Tier III
+PG,Pratapgarh,Pratapgarh,867848.0,4112.0,211.0,Rajasthan,Tier III
+RA,Rajsamand,Rajsamand,1158283.0,3853.0,302.0,Rajasthan,Tier III
+SA,Sanchore,Sanchore,845457.0,181.0,4865.41,Rajasthan,Tier III
+-,Salumbar,Salumbar,,,,Rajasthan,Tier III
+SK,Sikar,Sikar,2677737.0,7732.0,346.0,Rajasthan,Tier III
+-,Shahpura,Shahpura,,,,Rajasthan,Tier III
+SM,Sawai Madhopur,Sawai Madhopur,1338114.0,4500.0,257.0,Rajasthan,Tier III
+SR,Sirohi,Sirohi,1037185.0,5136.0,202.0,Rajasthan,Tier III
+DH,Dhalai,Ambassa,377988,2400.0,157,Tripura,Tier III
+GM,Gomati,Udaipur,436868,1522.8,287,Tripura,Tier III
+KH,Khowai,Khowai,327391,1005.67,326,Tripura,Tier III
+NT,North Tripura,Dharmanagar,415946,1444.5,288,Tripura,Tier III
+SP,Sepahijala,Bishramganj,484233,1044.78,463,Tripura,Tier III
+ST,South Tripura,Belonia,433737,1534.2,283,Tripura,Tier III
+UK,Unakoti,Kailashahar,277335,591.93,469,Tripura,Tier III
+WT,West Tripura,Agartala,917534,942.55,973,Tripura,Tier III
+BK,Bagalkot,Bagalkote,1890826,6583,288,Karnataka,Tier III
+BL,Ballari,Ballari,1400970,4252,330,Karnataka,Tier III
+BG,Belagavi,Belgaum,4778439,13415,356,Karnataka,Tier II
+BR,Bangalore Rural,Bangalore,987257,2239,441,Karnataka,Tier III
+BN,Bangalore Urban,Bangalore,9588910,2190,4378,Karnataka,Tier III
+BD,Bidar,Bidar,1700018,5448,312,Karnataka,Tier III
+CJ,Chamarajanagar,Chamarajanagar,1020962,5102,200,Karnataka,Tier III
+CK,Chikkaballapur,Chikkaballapur,1254377,4208,298,Karnataka,Tier III
+CK,Chikmagalur,Chikmagalur,1137753,7201,158,Karnataka,Tier III
+CT,Chitradurga,Chitradurga,1660378,8437,197,Karnataka,Tier III
+DK,Dakshina Kannada,Mangalore,2083625,4559,457,Karnataka,Tier III
+DA,Davanagere,Davangere,1643494,4460,370,Karnataka,Tier III
+DH,Dharwad,Dharwad,1846993,4265,434,Karnataka,Tier III
+GA,Gadaga,Gadag-Betageri,1065235,4651,229,Karnataka,Tier III
+GU,Kalaburagi,Kalaburagi,2564892,10990,233,Karnataka,Tier II
+HS,Hassan,Hassan,1776221,6814,261,Karnataka,Tier III
+HV,Haveri,Haveri,1598506,4825,331,Karnataka,Tier III
+KD,Kodagu,Madikeri,554762,4102,135,Karnataka,Tier III
+KL,Kolar,Kolar,1540231,4012,384,Karnataka,Tier III
+KP,Koppal,Koppal,1391292,5565,250,Karnataka,Tier III
+MA,Mandya,Mandya,1808680,4961,365,Karnataka,Tier III
+MY,Mysore,Mysore,2994744,6854,437,Karnataka,Tier III
+RA,Raichur,Raichur,1924773,6839,228,Karnataka,Tier III
+RM,Ramanagara,Ramanagara,1082739,3573,303,Karnataka,Tier III
+SH,Shimoga,Shimoga,1755512,8495,207,Karnataka,Tier III
+TU,Tumakuru,Tumakuru,2681449,10598,253,Karnataka,Tier III
+UD,Udupi,Udupi,1177908,3879,304,Karnataka,Tier III
+UK,Uttara Kannada,Karwar,1353299,10291,132,Karnataka,Tier III
+,Vijayanagara,Hospete,1353628,5644,240,Karnataka,Tier III
+BJ,Bijapur,Bijapur,2175102,10517,207,Karnataka,Tier III
+YG,Yadgir,Yadgir,1172985,5225,224,Karnataka,Tier III
+AI,Aizawl,Aizawl,404054,3577,113,Mizoram,Tier III
+CH,Champhai,Champhai,125370,3168,39,Mizoram,Tier III
+-,Hnahthial,Hnahthial,28468,–,–,Mizoram,Tier III
+-,Khawzawl,Khawzawl,0,–,–,Mizoram,Tier III
+KO,Kolasib,Kolasib,83054,1386,60,Mizoram,Tier III
+LA,Lawngtlai,Lawngtlai,117444,2519,46,Mizoram,Tier III
+LU,Lunglei,Lunglei,154094,4572,34,Mizoram,Tier III
+MA,Mamit,Mamit,85757,2967,28,Mizoram,Tier III
+SA,Saiha,Saiha,56366,1414,40,Mizoram,Tier III
+-,Saitual,Saitual,0,–,–,Mizoram,Tier III
+SE,Serchhip,Serchhip,64875,1424,46,Mizoram,Tier III
+KA,Karaikal,Karaikal,200222,157,1275,Puducherry,Tier III
+MA,Mahé,Mahé,41816,9,4646,Puducherry,Tier III
+PO,Puducherry,Pondicherry,950289,293,3232,Puducherry,Tier II
+YA,Yanam,Yanam,55626,30,1854,Puducherry,Tier III
+AG,Agra,Agra,4380793,4027,1084,Uttar Pradesh,Tier II
+AL,Aligarh,Aligarh,3673849,3747,1007,Uttar Pradesh,Tier II
+AN,Ambedkar Nagar,Akbarpur,2398709,2372,1021,Uttar Pradesh,Tier III
+AM,Amethi,Gauriganj,2549935,3063,830,Uttar Pradesh,Tier III
+JP,Amroha,Amroha,1838771,2321,818,Uttar Pradesh,Tier III
+AU,Auraiya,Auraiya,1372287,2051,681,Uttar Pradesh,Tier III
+FZ,Ayodhya,Ayodhya,2468371,2765,1054,Uttar Pradesh,Tier III
+AZ,Azamgarh,Azamgarh,4616509,4053,1139,Uttar Pradesh,Tier III
+BG,Bagpat,Baghpat,1302156,1345,986,Uttar Pradesh,Tier III
+BH,Bahraich,Bahraich,2384239,4926,415,Uttar Pradesh,Tier III
+BL,Ballia,Ballia,3223642,2981,1081,Uttar Pradesh,Tier III
+BP,Balrampur,Balrampur,2149066,3349,642,Uttar Pradesh,Tier III
+BN,Banda,Banda,1799541,4413,404,Uttar Pradesh,Tier III
+BB,Barabanki,Barabanki,3257983,3825,739,Uttar Pradesh,Tier III
+BR,Bareilly,Bareilly,4465344,4120,1084,Uttar Pradesh,Tier II
+BS,Basti,Basti,2461056,2687,916,Uttar Pradesh,Tier III
+BH,Bhadohi,Gyanpur,1554203,960,1531,Uttar Pradesh,Tier III
+BI,Bijnor,Bijnor,3683896,4561,808,Uttar Pradesh,Tier III
+BD,Budaun,Budaun,3712738,5168,718,Uttar Pradesh,Tier III
+BU,Bulandshahr,Bulandshahr,3498507,3719,788,Uttar Pradesh,Tier III
+CD,Chandauli,Chandauli,1952713,2554,768,Uttar Pradesh,Tier III
+CT,Chitrakoot,Karwi,990626,3202,315,Uttar Pradesh,Tier III
+DE,Deoria,Deoria,3098637,2535,1220,Uttar Pradesh,Tier III
+ET,Etah,Etah,1761152,2456,717,Uttar Pradesh,Tier III
+EW,Etawah,Etawah,1579160,2287,683,Uttar Pradesh,Tier III
+FR,Farrukhabad,Fatehgarh,1887577,2279,865,Uttar Pradesh,Tier III
+FT,Fatehpur,Fatehpur,2632684,4152,634,Uttar Pradesh,Tier III
+FI,Firozabad,Firozabad,2496761,2361,1044,Uttar Pradesh,Tier III
+GB,Gautam Buddha Nagar,Noida,1674714,1269,1252,Uttar Pradesh,Tier III
+GZ,Ghaziabad,Ghaziabad,4661452,1175,3967,Uttar Pradesh,Tier II
+GP,Ghazipur,Ghazipur,3622727,3377,1072,Uttar Pradesh,Tier III
+GN,Gonda,Gonda,3431386,4425,857,Uttar Pradesh,Tier III
+GR,Gorakhpur,Gorakhpur,4436275,3325,1336,Uttar Pradesh,Tier II
+HM,Hamirpur,Hamirpur,1104021,4325,268,Uttar Pradesh,Tier II
+PN,Hapur,Hapur,1338211,660,2028,Uttar Pradesh,Tier III
+HR,Hardoi,Hardoi,4091380,5986,683,Uttar Pradesh,Tier III
+HT,Hathras,Hathras,1565678,1752,851,Uttar Pradesh,Tier III
+JL,Jalaun,Orai,1670718,4565,366,Uttar Pradesh,Tier III
+JU,Jaunpur,Jaunpur,4476072,4038,1108,Uttar Pradesh,Tier III
+JH,Jhansi,Jhansi,2000755,5024,398,Uttar Pradesh,Tier II
+KJ,Kannauj,Kannauj,1658005,1993,792,Uttar Pradesh,Tier III
+KD,Kanpur Dehat,Akbarpur,1795092,3021,594,Uttar Pradesh,Tier III
+KN,Kanpur Nagar,Kanpur,4572951,3156,1415,Uttar Pradesh,Tier III
+KR,Kasganj,Kasganj,1438156,1955,736,Uttar Pradesh,Tier III
+KS,Kaushambi,Manjhanpur,1596909,1837,897,Uttar Pradesh,Tier III
+KU,Kushinagar,Padrauna,3560830,2909,1226,Uttar Pradesh,Tier III
+LK,Lakhimpur Kheri,Lakhimpur,4013634,7674,523,Uttar Pradesh,Tier III
+LA,Lalitpur,Lalitpur,1218002,5039,242,Uttar Pradesh,Tier III
+LU,Lucknow,Lucknow,4588455,2528,1815,Uttar Pradesh,Tier II
+MG,Maharajganj,Maharajganj,2665292,2953,903,Uttar Pradesh,Tier III
+MH,Mahoba,Mahoba,876055,2847,288,Uttar Pradesh,Tier III
+MP,Mainpuri,Mainpuri,1847194,2760,670,Uttar Pradesh,Tier III
+MT,Mathura,Mathura,2541894,3333,761,Uttar Pradesh,Tier II
+MB,Mau,Mau,2205170,1713,1287,Uttar Pradesh,Tier III
+ME,Meerut,Meerut,3447405,2522,1342,Uttar Pradesh,Tier II
+MI,Mirzapur,Mirzapur,2494533,4522,561,Uttar Pradesh,Tier III
+MO,Moradabad,Moradabad,4773138,3718,1284,Uttar Pradesh,Tier II
+MU,Muzaffarnagar,Muzaffarnagar,4138605,4008,1033,Uttar Pradesh,Tier III
+PI,Pilibhit,Pilibhit,2037225,3499,567,Uttar Pradesh,Tier III
+PR,Pratapgarh,Pratapgarh,3173752,3717,854,Uttar Pradesh,Tier III
+AH,Prayagraj,Prayagraj,5959798,5481,1087,Uttar Pradesh,Tier II
+RB,Raebareli,Raebareli,3404004,4609,739,Uttar Pradesh,Tier III
+RA,Rampur,Rampur,2335398,2367,987,Uttar Pradesh,Tier III
+SA,Saharanpur,Saharanpur,3464228,3689,939,Uttar Pradesh,Tier II
+SM,Sambhal,Sambhal,2217020,2453,890,Uttar Pradesh,Tier III
+SK,Sant Kabir Nagar,Khalilabad,1714300,1442,1014,Uttar Pradesh,Tier III
+SJ,Shahjahanpur,Shahjahanpur,3002376,4575,673,Uttar Pradesh,Tier III
+SH,Shamli,Shamli,1274815,1063,1200,Uttar Pradesh,Tier III
+SV,Shravasti,Shravasti,1114615,1948,572,Uttar Pradesh,Tier III
+SN,Siddharthnagar,Naugarh,2553526,2751,882,Uttar Pradesh,Tier III
+SI,Sitapur,Sitapur,4474446,5743,779,Uttar Pradesh,Tier III
+SO,Sonbhadra,Robertsganj,1862612,6788,274,Uttar Pradesh,Tier III
+SU,Sultanpur,Sultanpur,3790922,4436,855,Uttar Pradesh,Tier III
+UN,Unnao,Unnao,3110595,4561,682,Uttar Pradesh,Tier III
+VA,Varanasi,Varanasi,3682194,1535,2399,Uttar Pradesh,Tier II
+ES,Gangtok,Gangtok,281293,954,295,Sikkim,Tier III
+NS,Mangan,Mangan,43354,4226,10,Sikkim,Tier III
+PS,Pakyong,Pakyong,74583,404,180,Sikkim,Tier III
+,Soreng,Soreng,64760,293,221,Sikkim,Tier III
+SS,Namchi,Namchi,146742,750,196,Sikkim,Tier III
+WS,Gyalshing,Gyalshing,136299,1166,117,Sikkim,Tier III
+–,Balod,Balod,826165,3527,234.0,Chhattisgarh,Tier III
+–,Baloda Bazar,Baloda Bazar,1305343,4748,275.0,Chhattisgarh,Tier III
+–,Balrampur-Ramanujganj,Balrampur,730491,3806,190.0,Chhattisgarh,Tier III
+BA,Bastar,Jagdalpur,834873,4030,210.0,Chhattisgarh,Tier III
+–,Bemetara,Bemetara,795759,2855,270.0,Chhattisgarh,Tier III
+BJ,Bijapur,Bijapur,229832,6562,35.0,Chhattisgarh,Tier III
+BI,Bilaspur,Bilaspur,1961922,3508,460.0,Chhattisgarh,Tier II
+DA,Dantewada,Dantewada,533638,3411,59.0,Chhattisgarh,Tier III
+DH,Dhamtari,Dhamtari,799199,2029,394.0,Chhattisgarh,Tier III
+DU,Durg,Durg,1721726,2238,770.0,Chhattisgarh,Tier III
+–,Gariaband,Gariaband,597653,5823,103.0,Chhattisgarh,Tier III
+–,Gaurela-Pendra-Marwahi,Gaurela,336420,2307,150.0,Chhattisgarh,Tier III
+JC,Janjgir-Champa,Janjgir,1620632,3848,421.0,Chhattisgarh,Tier III
+JA,Jashpur,Jashpur Nagar,852043,5825,146.0,Chhattisgarh,Tier III
+KW,Kabirdham,Kawardha,584667,4237,195.0,Chhattisgarh,Tier III
+KK,Kanker,Kanker,748593,6513,115.0,Chhattisgarh,Tier III
+–,Khairagarh-Chhuikhadan-Gandai,Khairagarh,368444,-,,Chhattisgarh,Tier III
+–,Kondagaon,Kondagaon,578326,7768,74.0,Chhattisgarh,Tier III
+KB,Korba,Korba,1206563,6615,183.0,Chhattisgarh,Tier III
+KJ,Korea,Baikunthpur,659039,6578,100.0,Chhattisgarh,Tier III
+MA,Mahasamund,Mahasamund,1032275,4779,216.0,Chhattisgarh,Tier III
+MG,Manendragarh-Chirmiri-Bharatpur,Manendragarh,422248,1726.39,,Chhattisgarh,Tier III
+MM,Mohla-Manpur-Ambagarh Chowki,Mohla,283947,-,,Chhattisgarh,Tier III
+–,Mungeli,Mungeli,701707,2750,255.0,Chhattisgarh,Tier III
+NR,Narayanpur,Narayanpur,140206,6640,20.0,Chhattisgarh,Tier III
+RG,Raigarh,Raigarh,1493627,7068,211.0,Chhattisgarh,Tier III
+RP,Raipur,Raipur,2160876,2892,750.0,Chhattisgarh,Tier II
+RN,Rajnandgaon,Rajnandgaon,1537520,8062,191.0,Chhattisgarh,Tier III
+SB,Sarangarh-Bilaigarh,Sarangarh,607434,-,,Chhattisgarh,Tier III
+ST,Sakti,Sakti,653036,-,,Chhattisgarh,Tier III
+SK,Sukma,Sukma,250159,5897,42.0,Chhattisgarh,Tier III
+–,Surajpur,Surajpur,789043,2787,280.0,Chhattisgarh,Tier III
+SJ,Surguja,Ambikapur,839661,3265,150.0,Chhattisgarh,Tier III
+AG,Agar Malwa,Agar,571275,2785,205,Madhya Pradesh,Tier III
+AL,Alirajpur,Alirajpur,728677,3182,229,Madhya Pradesh,Tier III
+AP,Anuppur,Anuppur,749521,3747,200,Madhya Pradesh,Tier III
+AS,Ashoknagar,Ashoknagar,844979,4674,181,Madhya Pradesh,Tier III
+BL,Balaghat,Balaghat,1701156,9229,184,Madhya Pradesh,Tier III
+BR,Barwani,Barwani,1385659,5432,256,Madhya Pradesh,Tier III
+BE,Betul,Betul,1575247,10043,157,Madhya Pradesh,Tier III
+BD,Bhind,Bhind,1703562,4459,382,Madhya Pradesh,Tier III
+BP,Bhopal,Bhopal,2368145,2772,854,Madhya Pradesh,Tier II
+BU,Burhanpur,Burhanpur,756993,3427,221,Madhya Pradesh,Tier III
+CT,Chhatarpur,Chhatarpur,1762857,8687,203,Madhya Pradesh,Tier III
+CN,Chhindwara,Chhindwara,2090306,11815,177,Madhya Pradesh,Tier III
+DM,Damoh,Damoh,1263703,7306,173,Madhya Pradesh,Tier III
+DT,Datia,Datia,786375,2694,292,Madhya Pradesh,Tier III
+DE,Dewas,Dewas,1563107,7020,223,Madhya Pradesh,Tier III
+DH,Dhar,Dhar,2184672,8153,268,Madhya Pradesh,Tier III
+DI,Dindori,Dindori,704218,7427,94,Madhya Pradesh,Tier III
+GU,Guna,Guna,1240938,6485,194,Madhya Pradesh,Tier III
+GW,Gwalior,Gwalior,2030543,5465,445,Madhya Pradesh,Tier II
+HA,Harda,Harda,570302,3339,171,Madhya Pradesh,Tier III
+,Hoshangabad,Hoshangabad,1240975,6698,185,Madhya Pradesh,Tier III
+IN,Indore,Indore,3272335,3898,839,Madhya Pradesh,Tier II
+JA,Jabalpur,Jabalpur,2460714,5210,472,Madhya Pradesh,Tier II
+JH,Jhabua,Jhabua,1024091,6782,285,Madhya Pradesh,Tier III
+KA,Katni,Katni,1291684,4947,261,Madhya Pradesh,Tier III
+EN,Khandwa,Khandwa,1309443,7349,178,Madhya Pradesh,Tier III
+WN,Khargone,Khargone,1872413,8010,233,Madhya Pradesh,Tier III
+MH,Maihar,Maihar,0,-,-,Madhya Pradesh,Tier III
+ML,Mandla,Mandla,1053522,5805,182,Madhya Pradesh,Tier III
+MS,Mandsaur,Mandsaur,1339832,5530,242,Madhya Pradesh,Tier III
+MG,Mauganj,Mauganj,0,-,-,Madhya Pradesh,Tier III
+MO,Morena,Morena,1965137,4991,394,Madhya Pradesh,Tier III
+,Narsinghpur,Narsinghpur,1092141,5133,213,Madhya Pradesh,Tier III
+NE,Neemuch,Neemuch,825958,4267,194,Madhya Pradesh,Tier III
+–,Niwari,Niwari,404807,1170,345,Madhya Pradesh,Tier III
+PA,Panna,Panna,1016028,7135,142,Madhya Pradesh,Tier III
+PD,Pandhurna,Pandhurna,0,-,-,Madhya Pradesh,Tier III
+RS,Raisen,Raisen,1331699,8466,157,Madhya Pradesh,Tier III
+RG,Rajgarh,Rajgarh,1546541,6143,251,Madhya Pradesh,Tier III
+RL,Ratlam,Ratlam,1454483,4861,299,Madhya Pradesh,Tier II
+RE,Rewa,Rewa,2363744,6314,374,Madhya Pradesh,Tier III
+SG,Sagar,Sagar,2378295,10252,272,Madhya Pradesh,Tier III
+ST,Satna,Satna,2228619,7502,297,Madhya Pradesh,Tier III
+SR,Sehore,Sehore,1311008,6578,199,Madhya Pradesh,Tier III
+SO,Seoni,Seoni,1378876,8758,157,Madhya Pradesh,Tier III
+SH,Shahdol,Shahdol,1064989,6205,172,Madhya Pradesh,Tier III
+SJ,Shajapur,Shajapur,1512353,6196,244,Madhya Pradesh,Tier III
+SP,Sheopur,Sheopur,687952,6585,104,Madhya Pradesh,Tier III
+SV,Shivpuri,Shivpuri,1725818,10290,168,Madhya Pradesh,Tier III
+SI,Sidhi,Sidhi,1126515,10520,232,Madhya Pradesh,Tier III
+SN,Singrauli,Waidhan,1178132,5672,208,Madhya Pradesh,Tier III
+TI,Tikamgarh,Tikamgarh,1444920,5055,286,Madhya Pradesh,Tier III
+UJ,Ujjain,Ujjain,1986864,6091,356,Madhya Pradesh,Tier II
+UM,Umaria,Umaria,643579,4062,158,Madhya Pradesh,Tier III
+VI,Vidisha,Vidisha,1458212,7362,198,Madhya Pradesh,Tier III
+AJ,Anjaw,Hawai,21089,6190,3,Arunachal Pradesh,Tier III
+CH,Changlang,Changlang,147951,4662,32,Arunachal Pradesh,Tier III
+EK,East Kameng,Seppa,78413,4134,19,Arunachal Pradesh,Tier III
+ES,East Siang,Pasighat,99019,3603,27,Arunachal Pradesh,Tier III
+,Itanagar Capital Complex,Itanagar,122930,200,614.65,Arunachal Pradesh,Tier III
+–,Kamle,Raga,22256,200,111,Arunachal Pradesh,Tier III
+–,Kra Daadi,Palin,22290,2202,10,Arunachal Pradesh,Tier III
+KK,Kurung Kumey,Koloriang,89717,6040,15,Arunachal Pradesh,Tier III
+–,Lepa Rada,Basar,0,–,–,Arunachal Pradesh,Tier III
+EL,Lohit,Tezu,145538,2402,61,Arunachal Pradesh,Tier III
+LD,Longding,Longding,60000,1200,50,Arunachal Pradesh,Tier III
+DV,Lower Dibang Valley,Roing,53986,3900,14,Arunachal Pradesh,Tier III
+–,Lower Siang,Likabali,22630,–,–,Arunachal Pradesh,Tier III
+LB,Lower Subansiri,Ziro,82839,3508,24,Arunachal Pradesh,Tier III
+–,Namsai,Namsai,95950,1587,60,Arunachal Pradesh,Tier III
+–,Pakke-Kessang,Lemmi,15358,1932,7.9,Arunachal Pradesh,Tier III
+PA,Papum Pare,Yupia,176385,2875,61,Arunachal Pradesh,Tier III
+–,Shi Yomi,Tato,13310,2875,5,Arunachal Pradesh,Tier III
+–,Siang,Boleng,31920,2919,11,Arunachal Pradesh,Tier III
+TA,Tawang,Tawang,49950,2085,24,Arunachal Pradesh,Tier III
+TI,Tirap,Khonsa,111997,2362,47,Arunachal Pradesh,Tier III
+UD,Upper Dibang Valley,Anini,8004,9129,1,Arunachal Pradesh,Tier III
+US,Upper Siang,Yingkiong,35289,6188,6,Arunachal Pradesh,Tier III
+UB,Upper Subansiri,Daporijo,83205,7032,12,Arunachal Pradesh,Tier III
+WK,West Kameng,Bomdila,87013,7422,12,Arunachal Pradesh,Tier III
+WS,West Siang,Aalo,112272,8325,13,Arunachal Pradesh,Tier III
+,Keyi Panyor,Yachuli,30000,,,Arunachal Pradesh,Tier III
+,Bichom,Napangphung,9710,,,Arunachal Pradesh,Tier III
+AN,Angul,Angul,1271703,6232.0,199,Odisha,Tier III
+BD,Boudh,Boudh,439917,3098.0,142,Odisha,Tier III
+BH,Bhadrak,Bhadrak,1506522,2505.0,601,Odisha,Tier III
+BL,Balangir,Balangir,1648574,6575.0,251,Odisha,Tier III
+BR,Bargarh,Bargarh,1478833,5837.0,253,Odisha,Tier III
+BW,Balasore,Balasore,2317419,3634.0,609,Odisha,Tier III
+CU,Cuttack,Cuttack,2618708,3932.0,666,Odisha,Tier II
+DE,Debagarh,Debagarh,312164,2781.0,106,Odisha,Tier III
+DH,Dhenkanal,Dhenkanal,1192948,4452.0,268,Odisha,Tier III
+GN,Ganjam,Chhatrapur,3529031,8206.0,430,Odisha,Tier III
+GP,Gajapati,Paralakhemundi,575880,3850.0,133,Odisha,Tier III
+JH,Jharsuguda,Jharsuguda,579499,2081.0,274,Odisha,Tier III
+JP,Jajpur,Jajpur,1826275,2888.0,630,Odisha,Tier III
+JS,Jagatsinghpur,Jagatsinghpur,1136604,1759.0,681,Odisha,Tier III
+KH,Khordha,Khordha,2251673,2813.0,800,Odisha,Tier III
+KJ,Kendujhar,Kendujhar,1802777,8240.0,217,Odisha,Tier III
+KL,Kalahandi,Bhawanipatna,1573054,7920.0,199,Odisha,Tier III
+KN,Kandhamal,Phulbani,731952,8021.0,91,Odisha,Tier III
+KO,Koraput,Koraput,1376934,8807.0,156,Odisha,Tier III
+KP,Kendrapara,Kendrapara,1439891,2644.0,545,Odisha,Tier III
+ML,Malkangiri,Malkangiri,612727,5791.0,106,Odisha,Tier III
+MY,Mayurbhanj,Baripada,2513895,10418.0,241,Odisha,Tier III
+NB,Nabarangpur,Nabarangpur,1218762,5294.0,230,Odisha,Tier III
+NU,Nuapada,Nuapada,606490,3408.0,157,Odisha,Tier III
+NY,Nayagarh,Nayagarh,962215,3890.0,247,Odisha,Tier III
+PU,Puri,Puri,1697983,3051.0,488,Odisha,Tier III
+RA,Rayagada,Rayagada,961959,7584.7,136,Odisha,Tier III
+SA,Sambalpur,Sambalpur,1044410,6702.0,158,Odisha,Tier III
+SO,Subarnapur,Subarnapur,652107,2284.0,279,Odisha,Tier III
+SU,Sundargarh,Sundergarh,2080664,9712.0,214,Odisha,Tier III
+CH,Chandigarh,Chandigarh,1055450,114,9258,Chandigarh,Tier II
+NG,North Goa,Panaji,817761,1736,471,Goa,Tier III
+SG,South Goa,Margao,639962,1966,326,Goa,Tier III
+EG,East Garo Hills,Williamnagar,317618,2603,121,Meghalaya,Tier III
+EK,East Khasi Hills,Shillong,824059,2752,292,Meghalaya,Tier III
+–,East Jaintia Hills,Khliehriat,122436,2115,58,Meghalaya,Tier III
+–,Eastern West Khasi Hills,Mairang,131451,1356,97,Meghalaya,Tier III
+–,North Garo Hills,Resubelpara,118325,1113,106,Meghalaya,Tier III
+RB,Ri Bhoi,Nongpoh,258380,2378,109,Meghalaya,Tier III
+SG,South Garo Hills,Baghmara,142574,1850,77,Meghalaya,Tier III
+–,South West Garo Hills,Ampati,172495,822,210,Meghalaya,Tier III
+–,South West Khasi Hills,Mawkyrwat,110152,1341,82,Meghalaya,Tier III
+WG,West Garo Hills,Tura,642923,3714,173,Meghalaya,Tier III
+WJ,West Jaintia Hills,Jowai,270352,1693,160,Meghalaya,Tier III
+WK,West Khasi Hills,Nongstoin,385601,5247,73,Meghalaya,Tier III
+AH,Ahmedabad,Ahmedabad,7208200,7170,890,Gujarat,Tier I
+AM,Amreli,Amreli,1513614,6760,205,Gujarat,Tier III
+AN,Anand,Anand,2090276,2942,711,Gujarat,Tier II
+AR,Aravalli,Modasa,1051746,3217,327,Gujarat,Tier III
+BK,Banaskantha,Palanpur,3116045,12703,290,Gujarat,Tier III
+BR,Bharuch,Bharuch,1550822,6524,238,Gujarat,Tier III
+BV,Bhavnagar,Bhavnagar,2877961,11155,288,Gujarat,Tier II
+BT,Botad,Botad,656005,2564,256,Gujarat,Tier III
+CU,Chhota Udaipur,Chhota Udaipur,1071831,3237,331,Gujarat,Tier III
+DA,Dahod,Dahod,2126558,3642,582,Gujarat,Tier II
+DG,Dang,Ahwa,226769,1764,129,Gujarat,Tier III
+DD,Devbhumi Dwarka,Khambhalia,752484,5684,132,Gujarat,Tier III
+GA,Gandhinagar,Gandhinagar,1387478,2163,660,Gujarat,Tier III
+GS,Gir Somnath,Veraval,1217477,3754,324,Gujarat,Tier III
+JA,Jamnagar,Jamnagar,2159130,14125,153,Gujarat,Tier III
+JU,Junagadh,Junagadh,2742291,8839,310,Gujarat,Tier III
+KH,Kheda,Nadiad,2298934,4215,541,Gujarat,Tier III
+KA,Kutch,Bhuj,2090313,45652,46,Gujarat,Tier III
+MH,Mahisagar,Lunavada,994624,2500,440,Gujarat,Tier III
+MA,Mehsana,Mehsana,2027727,4386,462,Gujarat,Tier III
+MB,Morbi,Morbi,960329,4871,197,Gujarat,Tier III
+NR,Narmada,Rajpipla,590379,2749,214,Gujarat,Tier III
+NV,Navsari,Navsari,1330711,2211,602,Gujarat,Tier III
+PM,Panchmahal,Godhra,2388267,5219,458,Gujarat,Tier III
+PA,Patan,Patan,1342746,5738,234,Gujarat,Tier III
+PO,Porbandar,Porbandar,586062,2294,255,Gujarat,Tier III
+RA,Rajkot,Rajkot,3157676,11203,282,Gujarat,Tier II
+SK,Sabarkantha,Himatnagar,2427346,7390,328,Gujarat,Tier III
+ST,Surat,Surat,6081322,4418,953,Gujarat,Tier II
+SN,Surendranagar,Surendranagar,1755873,10489,167,Gujarat,Tier III
+TA,Tapi,Vyara,806489,3435,249,Gujarat,Tier III
+VD,Vadodara,Vadodara,3639775,4312,467,Gujarat,Tier II
+VL,Valsad,Valsad,1703068,3034,561,Gujarat,Tier III
+LD,Lakshadweep,Kavaratti,64473,30,2149,Lakshadweep,Tier III
+AL,Alappuzha,Alappuzha,2121943,1415,1501,Kerala,Tier III
+ER,Ernakulam,Kakkanad,3279860,3063,1069,Kerala,Tier III
+ID,Idukki,Painavu,1107453,4356,254,Kerala,Tier III
+KN,Kannur,Kannur,2525637,2961,852,Kerala,Tier II
+KS,Kasaragod,Kasaragod,1302600,1989,654,Kerala,Tier III
+KL,Kollam,Kollam,2629703,2483,1056,Kerala,Tier II
+KT,Kottayam,Kottayam,1979384,2206,896,Kerala,Tier III
+KZ,Kozhikode,Kozhikode,3089543,2345,1318,Kerala,Tier II
+MA,Malappuram,Malappuram,4110956,3554,1058,Kerala,Tier II
+PL,Palakkad,Palakkad,2810892,4482,627,Kerala,Tier III
+PT,Pathanamthitta,Pathanamthitta,1195537,2652,453,Kerala,Tier III
+TV,Thiruvananthapuram,Thiruvananthapuram,3307284,2189,1509,Kerala,Tier II
+TS,Thrissur,Thrissur,3110327,3027,1026,Kerala,Tier II
+WA,Wayanad,Kalpetta,816558,2130,383,Kerala,Tier III
+AD,Adilabad,Adilabad,708952,4185.97,171,Telangana,Tier III
+–,Bhadradri Kothagudem,Kothagudem,1304811,8951.0,143,Telangana,Tier III
+–,Hanamkonda,Hanamkonda,1135707,1304.5,826,Telangana,Tier III
+HY,Hyderabad,Hyderabad,3943323,217.0,18172,Telangana,Tier I
+–,Jagtial,Jagtial,983414,3043.23,407,Telangana,Tier III
+–,Jangaon,Jangaon,582457,2187.5,259,Telangana,Tier III
+–,Jayashankar Bhupalpally,Bhupalpally,712257,6361.7,115,Telangana,Tier III
+–,Jogulamba Gadwal,Gadwal,664971,2928.0,208,Telangana,Tier III
+–,Kamareddy,Kamareddy,972625,3651.0,266,Telangana,Tier III
+KA,Karimnagar,Karimnagar,1016063,2379.07,473,Telangana,Tier III
+KH,Khammam,Khammam,1401639,4453.0,321,Telangana,Tier III
+–,Kumuram Bheem Asifabad,Asifabad,515835,4300.16,106,Telangana,Tier III
+–,Mahabubabad,Mahabubabad,770170,2876.7,269,Telangana,Tier III
+MA,Mahbubnagar,Mahbubnagar,1318110,4037.0,281,Telangana,Tier III
+–,Mancherial,Mancherial,807037,4056.36,201,Telangana,Tier III
+ME,Medak,Medak,767428,2740.89,275,Telangana,Tier III
+–,Medchal–Malkajgiri,Shamirpet,2542203,5005.98,2251,Telangana,Tier III
+–,Mulugu,Mulugu,294671,3881.0,124,Telangana,Tier III
+,Nalgonda,Nalgonda,1631399,2449.79,227,Telangana,Tier III
+–,Narayanpet,Narayanpet,566874,2336.44,243,Telangana,Tier III
+–,Nagarkurnool,Nagarkurnool,893308,6545.0,124,Telangana,Tier III
+–,Nirmal,Nirmal,709415,3562.51,185,Telangana,Tier III
+NI,Nizamabad,Nizamabad,1534428,4153.0,366,Telangana,Tier III
+–,Peddapalli,Peddapalli,795332,4614.74,356,Telangana,Tier III
+–,Rajanna Sircilla,Sircilla,546121,2030.89,273,Telangana,Tier III
+RA,Ranga Reddy,Hyderabad,2551731,5031.0,486,Telangana,Tier III
+–,Sangareddy,Sangareddy,1527628,4464.87,347,Telangana,Tier III
+–,Siddipet,Siddipet,993376,3425.19,279,Telangana,Tier III
+–,Suryapet,Suryapet,1099560,3374.47,305,Telangana,Tier III
+–,Vikarabad,Vikarabad,881250,3385.0,274,Telangana,Tier III
+–,Wanaparthy,Wanaparthy,751553,2938.0,268,Telangana,Tier III
+WL,Warangal,Warangal,716457,2175.5,330,Telangana,Tier II
+–,Yadadri Bhuvanagiri,Bhongir,726465,3091.48,239,Telangana,Tier III
+NI,Nicobar,Car Nicobar,36842,1841,20,Andaman and Nicobar Islands,Tier III
+,North and Middle Andaman,Mayabunder,105597,3736,28,Andaman and Nicobar Islands,Tier III
+SA,South Andaman,Port Blair,238142,2672,89,Andaman and Nicobar Islands,Tier III
+AM,Ambala,Ambala,1136784,1569,722,Haryana,Tier III
+BH,Bhiwani,Bhiwani,1629109,5140,341,Haryana,Tier III
+CD,Charkhi Dadri,Charkhi Dadri,502276,1370,367,Haryana,Tier III
+HR,Faridabad,Faridabad,1798954,783,2298,Haryana,Tier II
+FT,Fatehabad,Fatehabad,941522,2538,371,Haryana,Tier III
+GU,Gurugram,Gurugram,1514085,1258,1241,Haryana,Tier III
+HI,Hisar,Hisar,1742815,3788,438,Haryana,Tier III
+JH,Jhajjar,Jhajjar,956907,1868,522,Haryana,Tier III
+JI,Jind,Jind,1332042,2702,493,Haryana,Tier III
+KT,Kaithal,Kaithal,1072861,2799,467,Haryana,Tier III
+KR,Karnal,Karnal,1506323,2471,598,Haryana,Tier II
+KU,Kurukshetra,Kurukshetra,964231,1530,630,Haryana,Tier III
+MA,Mahendragarh,Narnaul,921680,1900,485,Haryana,Tier III
+MW,Nuh,Nuh,1089406,1765,729,Haryana,Tier III
+PW,Palwal,Palwal,1040493,1367,761,Haryana,Tier III
+PK,Panchkula,Panchkula,558890,816,622,Haryana,Tier III
+PP,Panipat,Panipat,1202811,1250,949,Haryana,Tier III
+RE,Rewari,Rewari,896129,1559,562,Haryana,Tier III
+RO,Rohtak,Rohtak,1058683,1668,607,Haryana,Tier III
+SI,Sirsa,Sirsa,1295114,4276,303,Haryana,Tier III
+SNP,Sonipat,Sonipat,1480080,2260,697,Haryana,Tier III
+YN,Yamunanagar,Yamunanagar,1214162,1756,687,Haryana,Tier III
+KR,Kargil,Kargil,143388,14036,10,Ladakh,Tier III
+LE,Leh,Leh,133487,45110,3,Ladakh,Tier III
+AH,Ahmednagar,Ahmednagar,4543083,17048,266,Maharashtra,Tier III
+AK,Akola,Akola,1818617,5429,321,Maharashtra,Tier III
+AM,Amravati,Amravati,2887826,12235,237,Maharashtra,Tier II
+AU,Aurangabad,Aurangabad,3695928,10107,365,Maharashtra,Tier II
+BI,Beed,Beed,2585962,10693,242,Maharashtra,Tier III
+BH,Bhandara,Bhandara,1198810,3890,293,Maharashtra,Tier III
+BU,Buldhana,Buldhana,2588039,9661,268,Maharashtra,Tier III
+CH,Chandrapur,Chandrapur,2194262,11443,192,Maharashtra,Tier III
+OS,Osmanabad,Osmanabad,1660311,7569,219,Maharashtra,Tier III
+DH,Dhule,Dhule,2048781,8095,285,Maharashtra,Tier III
+GA,Gadchiroli,Gadchiroli,1071795,14412,74,Maharashtra,Tier III
+GO,Gondia,Gondia,1322331,5431,253,Maharashtra,Tier III
+HI,Hingoli,Hingoli,1178973,4526,244,Maharashtra,Tier III
+JG,Jalgaon,Jalgaon,4224442,11765,359,Maharashtra,Tier II
+JN,Jalna,Jalna,1958483,7718,255,Maharashtra,Tier III
+KO,Kolhapur,Kolhapur,3874015,7685,504,Maharashtra,Tier II
+LA,Latur,Latur,2455543,7157,343,Maharashtra,Tier III
+MC,Mumbai City,Mumbai,3145966,157,20036,Maharashtra,Tier III
+MU,Mumbai Suburban,Bandra (East),9332481,446,21000,Maharashtra,Tier III
+ND,Nanded,Nanded,3356566,10528,319,Maharashtra,Tier II
+NB,Nandurbar,Nandurbar,1646177,5055,276,Maharashtra,Tier III
+NG,Nagpur,Nagpur,4653171,9892,470,Maharashtra,Tier II
+NS,Nashik,Nashik,6109052,15539,393,Maharashtra,Tier II
+PL,Palghar,Palghar,2990116,5344,560,Maharashtra,Tier III
+PA,Parbhani,Parbhani,1835982,6511,295,Maharashtra,Tier III
+PU,Pune,Pune,9426959,15643,603,Maharashtra,Tier I
+RG,Raigad,Alibag,2635394,7152,368,Maharashtra,Tier III
+RT,Ratnagiri,Ratnagiri,1612672,8208,196,Maharashtra,Tier III
+SN,Sangli,Sangli,2820575,8572,329,Maharashtra,Tier II
+ST,Satara,Satara,3003922,10475,287,Maharashtra,Tier III
+SI,Sindhudurg,Oros,848868,5207,163,Maharashtra,Tier III
+SO,Solapur,Solapur,4315527,14895,290,Maharashtra,Tier II
+TH,Thane,Thane,8070032,4214,1915,Maharashtra,Tier III
+WR,Wardha,Wardha,1296157,6309,205,Maharashtra,Tier III
+WS,Washim,Washim,1196714,5155,244,Maharashtra,Tier III
+YA,Yavatmal,Yavatmal,2775457,13582,204,Maharashtra,Tier III
+BI,Bilaspur,Bilaspur,382056,1167,327.0,Himachal Pradesh,Tier II
+CH,Chamba,Chamba,518844,6528,80.0,Himachal Pradesh,Tier III
+HA,Hamirpur,Hamirpur,454293,1118,406.0,Himachal Pradesh,Tier II
+KA,Kangra,Dharamshala,1507223,5739,263.0,Himachal Pradesh,Tier III
+KI,Kinnaur,Reckong Peo,84298,6401,13.0,Himachal Pradesh,Tier III
+KU,Kullu,Kullu,437474,5503,79.0,Himachal Pradesh,Tier III
+LH,Lahaul and Spiti,Keylong,18528,7835,2.3,Himachal Pradesh,Tier III
+MA,Mandi,Mandi,999518,3950,253.0,Himachal Pradesh,Tier III
+SH,Shimla,Shimla,813384,5131,159.0,Himachal Pradesh,Tier II
+SI,Sirmaur,Nahan,530164,2825,188.0,Himachal Pradesh,Tier III
+SO,Solan,Solan,576670,1936,298.0,Himachal Pradesh,Tier III
+UN,Una,Una,521057,1540,328.0,Himachal Pradesh,Tier III
+AD,Alipurduar,Alipurduar,1501983,3136.0,479,West Bengal,Tier III
+BN,Bankura,Bankura,3596292,6882.0,523,West Bengal,Tier III
+BI,Birbhum,Suri,3502387,4545.0,771,West Bengal,Tier III
+KB,Cooch Behar,Cooch Behar,2822780,3387.0,833,West Bengal,Tier III
+DD,Dakshin Dinajpur,Balurghat,1670931,2183.0,753,West Bengal,Tier III
+DA,Darjeeling,Darjeeling,1595181,2093.0,762,West Bengal,Tier III
+HG,Hooghly,Chinsurah,5520389,3149.0,1753,West Bengal,Tier III
+HR,Howrah,Howrah,4841638,1467.0,3300,West Bengal,Tier III
+JA,Jalpaiguri,Jalpaiguri,3869675,6227.0,621,West Bengal,Tier III
+JH,Jhargram,Jhargram,1136548,3038.0,374,West Bengal,Tier III
+KA,Kalimpong,Kalimpong,251642,1054.0,239,West Bengal,Tier III
+KO,Kolkata,Kolkata,4486679,206.08,24252,West Bengal,Tier I
+MA,Maldah,English Bazar,3997970,3733.0,1071,West Bengal,Tier III
+MSD,Murshidabad,Baharampur,7102430,5324.0,1334,West Bengal,Tier III
+,Nadia,Krishnanagar,5168488,3927.0,1316,West Bengal,Tier III
+PN,North 24 Parganas,Barasat,10082852,4094.0,2463,West Bengal,Tier III
+BR,Paschim Bardhaman,Asansol,2882031,1603.0,1798,West Bengal,Tier III
+PM,Paschim Medinipur,Midnapore,4776909,6308.0,757,West Bengal,Tier III
+BR,Purba Bardhaman,Bardhaman,4835532,5433.0,890,West Bengal,Tier III
+PR,Purba Medinipur,Tamluk,5095875,4736.0,1076,West Bengal,Tier III
+PU,Purulia,Purulia,2927965,6259.0,468,West Bengal,Tier II
+PS,South 24 Parganas,Alipore,8161961,9960.0,819,West Bengal,Tier III
+UD,Uttar Dinajpur,Raiganj,3000849,3180.0,956,West Bengal,Tier III
+AR,Araria,Araria,2806200,2829,992,Bihar,Tier III
+AW,Arwal,Arwal,700843,638,1098,Bihar,Tier III
+AU,Aurangabad,Aurangabad,2511243,3303,760,Bihar,Tier II
+BA,Banka,Banka,2029339,3018,672,Bihar,Tier III
+BE,Begusarai,Begusarai,2954367,1917,1540,Bihar,Tier III
+BG,Bhagalpur,Bhagalpur,3032226,2569,1180,Bihar,Tier III
+BJ,Bhojpur,Arrah,2720155,2473,1136,Bihar,Tier III
+BU,Buxar,Buxar,1707643,1624,1003,Bihar,Tier III
+DA,Darbhanga,Darbhanga,3921971,2278,1721,Bihar,Tier III
+EC,East Champaran,Motihari,5082868,3969,1281,Bihar,Tier III
+GA,Gaya,Gaya,4379383,4978,880,Bihar,Tier III
+GO,Gopalganj,Gopalganj,2558037,2033,1258,Bihar,Tier III
+JA,Jamui,Jamui,1756078,3099,567,Bihar,Tier III
+JE,Jehanabad,Jehanabad,1124176,1569,1206,Bihar,Tier III
+KM,Kaimur,Bhabua,1626900,3363,488,Bihar,Tier III
+KT,Katihar,Katihar,3068149,3056,1004,Bihar,Tier III
+KH,Khagaria,Khagaria,1657599,1486,1115,Bihar,Tier III
+KI,Kishanganj,Kishanganj,1690948,1884,898,Bihar,Tier III
+LA,Lakhisarai,Lakhisarai,1000717,1229,815,Bihar,Tier III
+MP,Madhepura,Madhepura,1994618,1787,1116,Bihar,Tier III
+MB,Madhubani,Madhubani,4476044,3501,1279,Bihar,Tier III
+MG,Munger,Munger,1359054,1419,958,Bihar,Tier III
+MZ,Muzaffarpur,Muzaffarpur,4778610,3173,1506,Bihar,Tier III
+NL,Nalanda,Bihar Sharif,2872523,2354,1220,Bihar,Tier III
+NW,Nawada,Nawada,2216653,2492,889,Bihar,Tier III
+PA,Patna,Patna,5772804,3202,1803,Bihar,Tier II
+PU,Purnia,Purnia,3273127,3228,1014,Bihar,Tier III
+RO,Rohtas,Sasaram,2962593,3850,763,Bihar,Tier III
+SH,Saharsa,Saharsa,1897102,1702,1125,Bihar,Tier III
+SM,Samastipur,Samastipur,4254782,2905,1465,Bihar,Tier III
+SR,Saran,Chhapra,3943098,2641,1493,Bihar,Tier III
+SP,Sheikhpura,Sheikhpura,634927,689,922,Bihar,Tier III
+SO,Sheohar,Sheohar,656916,443,1882,Bihar,Tier III
+ST,Sitamarhi,Sitamarhi,3419622,2199,1491,Bihar,Tier III
+SW,Siwan,Siwan,3318176,2219,1495,Bihar,Tier III
+SU,Supaul,Supaul,2228397,2410,919,Bihar,Tier III
+VA,Vaishali,Hajipur,3495021,2036,1717,Bihar,Tier III
+WC,West Champaran,Bettiah,3935042,5229,753,Bihar,Tier III
