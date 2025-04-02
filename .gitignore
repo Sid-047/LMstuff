@@ -1,1 +1,10 @@
 .DS_Store
+
+**/wandb/
+**/tunedModels/
+
+# Ignore all wandb directories
+wandb/
+
+# Ignore all tunedModels directories
+tunedModels/
